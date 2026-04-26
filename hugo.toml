@@ -1,0 +1,15 @@
+baseURL = 'https://github.com/ericxu0213/AlephFrags'
+locale = 'en-us'
+title = 'Aleph Frags'
+theme = 'hugo-book'
+
+[params]
+  BookSection = 'docs'
+  BookSearchConfig = true
+  BookCollapseSection = true
+  BookSubtitle = "I saw the teeming sea; I saw daybreak and nightfall; I saw the multitudes of America; I saw a silvery cobweb in the center of a black pyramid."
+[menu]
+  [[menu.after]]
+    name = "GitHub"
+    url = "https://github.com/ericxu0213/AlephFrags"
+    weight = 10
