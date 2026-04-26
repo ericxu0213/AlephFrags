@@ -3,8 +3,6 @@ locale = 'en-us'
 title = 'Aleph Frags'
 theme = 'hugo-book'
 
-relativeURLs = true
-
 [params]
   BookSection = 'docs'
   BookSearchConfig = true
