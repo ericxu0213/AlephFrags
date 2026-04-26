@@ -1,7 +1,10 @@
-baseURL = 'https://github.com/ericxu0213/AlephFrags'
+baseURL = 'https://ericxu0213.github.io/AlephFrags/'
 locale = 'en-us'
 title = 'Aleph Frags'
 theme = 'hugo-book'
+
+canonifyURLs = true
+relativeURLs = true
 
 [params]
   BookSection = 'docs'
