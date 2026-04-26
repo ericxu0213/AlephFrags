@@ -3,7 +3,6 @@ locale = 'en-us'
 title = 'Aleph Frags'
 theme = 'hugo-book'
 
-canonifyURLs = true
 relativeURLs = true
 
 [params]
